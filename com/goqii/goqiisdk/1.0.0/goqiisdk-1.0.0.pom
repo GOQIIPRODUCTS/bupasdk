@@ -1,0 +1,36 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.goqii.goqiisdk</groupId>
+    <artifactId>goqiisdk</artifactId>
+    <version>1.0.0</version>
+    <packaging>aar</packaging>
+
+    <name>Goqii SDK</name>
+    <description>Goqii SDK for Android</description>
+    <url>https://github.com/GOQIIPRODUCTS/bupasdk</url>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>goqiiproducts</id>
+            <name>GOQii Products</name>
+            <email>your-email@example.com</email>
+        </developer>
+    </developers>
+
+    <scm>
+        <url>https://github.com/GOQIIPRODUCTS/bupasdk</url>
+        <connection>scm:git:git://github.com/GOQIIPRODUCTS/bupasdk.git</connection>
+        <developerConnection>scm:git:ssh://github.com/GOQIIPRODUCTS/bupasdk.git</developerConnection>
+    </scm>
+</project>
