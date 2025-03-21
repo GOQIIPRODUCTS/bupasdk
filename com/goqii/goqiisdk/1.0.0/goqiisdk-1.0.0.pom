@@ -4,7 +4,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.goqii.goqiisdk</groupId>
+    <groupId>com.goqii</groupId>
     <artifactId>goqiisdk</artifactId>
     <version>1.0.0</version>
     <packaging>aar</packaging>
